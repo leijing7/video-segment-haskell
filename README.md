@@ -25,7 +25,7 @@ Note: the process would take probably 1 hour for one single source video file.
 
 ###Make the Video with Still Image - For Segment.hs
 
-For this, you need the OpenCV python wrapper such as cv2.pyd and those python code (PyQt) to generate the Gui.
+######For this, you need the OpenCV python wrapper such as cv2.pyd, and opencv_ffmpeg.dll, also with those python code (PyQt) to generate the Gui.
 
 1. double click the imageVideo.exe program. This program has a friendly Gui to display
 the chosen still image.
