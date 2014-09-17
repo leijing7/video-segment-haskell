@@ -1,6 +1,7 @@
 ## Video Segmentation
 
-These Haskell scripts are to segment Audio/video according to Praat output txt file as like NX_2.txt format. It uses FFmpeg to do the lift jobs.
+These Haskell scripts are to segment Audio/video according to Praat output txt file as like NX_2.txt format. It uses FFmpeg to do the lift jobs. 
+They are written quite time ago to help Linguistics researchers to segment recordings. Normally they use Praat to mark the video clip start and end time, then use these scripts to cut them.
 
 <hr>
 
